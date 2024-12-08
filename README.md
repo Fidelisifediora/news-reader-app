@@ -1,2 +1,2 @@
-This is news-reader app project 
-Purposely to assist users in accessing world news  accross the internet
+
+A React app that displays the latest news using NewsAPI, with category filtering and search functionality.
